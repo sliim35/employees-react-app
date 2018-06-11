@@ -4,5 +4,6 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-- `yarn install`
+- `yarn install` install all dependencies.
 - `yarn start` for development.
+- `yarn deploy` deploy to GH Pages.
